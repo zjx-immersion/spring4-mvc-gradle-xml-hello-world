@@ -1,6 +1,7 @@
 Gradle - Spring 4 MVC Hello World
 ===============================
 Template for Spring 4 MVC + JSP view + XML configuration, using Gradle build tool.
+Just for quick start a web project with gradle
 
 ###1. Technologies used
 * Gradle 2.0
@@ -11,16 +12,14 @@ Template for Spring 4 MVC + JSP view + XML configuration, using Gradle build too
 
 ###2. To Run this project locally
 ```shell
-$ git clone https://github.com/mkyong/spring4-mvc-gradle-xml-hello-world
+$ git clone https://github.com/zjx-immersion/spring4-mvc-gradle-xml-hello-world.git
 $ gradle jettyRun
 ```
 Access ```http://localhost:8080/spring4```
 
 ###3. To import this project into Eclipse IDE
-1. ```$ gradle eclipse```
-2. Import into Eclipse via **existing projects into workspace** option.
-3. Done.
+1. ```$ gradle idea``
+2. open spring4-mvc-gradle-xml-hello-world.ipr
+3.done
 
-###4. Project Demo
-Please refer to this article [Gradle - Spring 4 MVC Hello World ](http://www.mkyong.com/spring-mvc/gradle-spring-mvc-web-project-example/)
 
