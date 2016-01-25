@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/zjx-immersion/spring4-mvc-gradle-xml-hello-world.svg?branch=master)](https://travis-ci.org/zjx-immersion/spring4-mvc-gradle-xml-hello-world.svg?branch=master):
 Gradle - Spring 4 MVC Hello World
 ===============================
 > Template for Spring 4 MVC + JSP view + XML configuration, using Gradle build tool.
